@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ob5tSXjhh9bg7vY6/HyFJR/HF1ddWg6GdBRgl1L/Ocpna/n3G8sQH5SM2BZ0Uz27cYpgZJUxjWY/pUOUdK+6AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documentos\\Projetos\\APIs\\CursoC\\CursoC\\CursoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

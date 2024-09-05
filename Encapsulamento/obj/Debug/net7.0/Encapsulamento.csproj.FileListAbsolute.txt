@@ -1,0 +1,11 @@
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\bin\Debug\net7.0\Encapsulamento.deps.json
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\bin\Debug\net7.0\Encapsulamento.dll
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\bin\Debug\net7.0\Encapsulamento.pdb
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\obj\Debug\net7.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\obj\Debug\net7.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\obj\Debug\net7.0\Encapsulamento.dll
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\obj\Debug\net7.0\refint\Encapsulamento.dll
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\obj\Debug\net7.0\Encapsulamento.pdb
+C:\Users\victo\OneDrive\Documentos\Projetos\APIs\CursoC\Encapsulamento\obj\Debug\net7.0\ref\Encapsulamento.dll
